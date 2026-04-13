@@ -1,1 +1,30 @@
+TrendPulse - Chart Descriptions
 
+1. chart1_top_stories.png
+This chart shows the top 10 trending stories based on score.
+It is a horizontal bar chart where:
+- Y-axis: Story titles (shortened for readability)
+- X-axis: Score (popularity)
+
+2. chart2_categories.png
+This chart shows the number of stories in each category.
+It is a bar chart where:
+- X-axis: Category names
+- Y-axis: Number of stories
+
+3. chart3_scatter.png
+This chart shows the relationship between score and number of comments.
+It is a scatter plot where:
+- X-axis: Score
+- Y-axis: Number of comments
+- Points are separated into:
+  • Popular stories
+  • Not popular stories
+
+4. dashboard.png
+This is a combined dashboard of all charts.
+It displays:
+- Top stories
+- Category distribution
+- Score vs comments
+All in a single view for better analysis.
