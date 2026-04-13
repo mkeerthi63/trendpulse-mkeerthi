@@ -1,1 +1,42 @@
+TrendPulse - Data Files Description
 
+1. top_stories.json
+This file contains raw data collected from the HackerNews API.
+It includes:
+- post_id (id)
+- title
+- author (by)
+- score
+- time (UNIX timestamp)
+- url
+- number of comments (descendants)
+
+This file is generated in Task 1 (Data Collection).
+
+--------------------------------------------------
+
+2. trends_clean.csv
+This file contains cleaned and processed data.
+Cleaning steps performed:
+- Removed duplicate stories based on post_id
+- Removed rows with missing values (post_id, title, score)
+- Converted score and num_comments to integers
+- Filtered out low-quality stories (score < 5)
+- Removed extra whitespace from titles
+
+This file is generated in Task 2 (Data Processing).
+
+--------------------------------------------------
+
+3. trends_analysed.csv
+This file contains analysed data with additional columns.
+New columns added:
+- engagement = num_comments / (score + 1)
+- is_popular = True if score is above average, else False
+
+This file is generated in Task 3 (Data Analysis).
+
+--------------------------------------------------
+
+Data Flow:
+JSON → Cleaned CSV → Analysed CSV
