@@ -1,0 +1,111 @@
+post_id,title,by,score,time,url,num_comments,category,engagement,is_popular
+47750872,Servo is now available on crates.io,ffin,160,1776082342,https://servo.org/blog/2026/04/13/servo-0.1.0-release/,53,technology,0.32919254658385094,False
+47752819,Make Tmux Pretty and Usable,speckx,45,1776091735,https://hamvocke.com/blog/a-guide-to-customizing-your-tmux-conf/,23,technology,0.5,False
+47746610,All elementary functions from a single binary operator,pizza,649,1776044972,https://arxiv.org/abs/2603.21852,180,technology,0.27692307692307694,True
+47750669,Android now stops you sharing your location in photos,edent,220,1776080895,https://shkspr.mobi/blog/2026/04/android-now-stops-you-sharing-your-location-in-photos/,146,technology,0.6606334841628959,False
+47751781,US appeals court declares 158-year-old home distilling ban unconstitutional,t-3,95,1776087453,https://nypost.com/2026/04/11/us-news/us-appeals-court-declares-158-year-old-home-distilling-ban-unconstitutional/,19,technology,0.19791666666666666,False
+47748064,The economics of software teams: Why most engineering orgs are flying blind,kiyanwang,309,1776059132,https://www.viktorcessan.com/the-economics-of-software-teams/,161,technology,0.5193548387096775,True
+47750821,Michigan 'digital age' bills pulled after privacy concerns raised,iamnothere,93,1776081935,https://www.thecentersquare.com/michigan/article_7ca4e268-4a68-42fb-9042-f9d8604ebd7f.html,43,technology,0.4574468085106383,False
+47751936,"Microsoft isn't removing Copilot from Windows 11, it's just renaming it",bundie,39,1776088104,https://www.neowin.net/opinions/microsoft-isnt-removing-copilot-from-windows-11-its-just-renaming-it/,23,technology,0.575,False
+47751621,Initial mainline video capture and camera support for Rockchip RK3588,mfilion,10,1776086630,https://www.collabora.com/news-and-blog/news-and-events/mainline-video-capture-and-camera-support-for-rockchip-rk3588.html,0,technology,0.0,False
+47745284,Taking on CUDA with ROCm: 'One Step After Another',mindcrime,225,1776033525,https://www.eetimes.com/taking-on-cuda-with-rocm-one-step-after-another/,165,technology,0.7300884955752213,False
+47741701,DIY Soft Drinks,_Microft,593,1776011923,https://blinry.org/diy-soft-drinks/,178,technology,0.2996632996632997,True
+47752884,We May Be Living Through the Most Consequential Hundred Days in Cyber History,laurex,34,1776091985,https://ringmast4r.substack.com/p/we-may-be-living-through-the-most,6,technology,0.17142857142857143,False
+47738827,Bring Back Idiomatic Design (2023),phil294,625,1775996486,https://essays.johnloeber.com/p/4-bring-back-idiomatic-design,350,technology,0.5591054313099042,True
+47742200,Show HN: boringBar – a taskbar-style dock replacement for macOS,a-ve,447,1776014744,https://boringbar.app/,250,technology,0.5580357142857143,True
+47702887,Most people can't juggle one ball,surprisetalk,439,1775738120,https://www.lesswrong.com/posts/jTGbKKGqs5EdyYoRc/most-people-can-t-juggle-one-ball,153,technology,0.3477272727272727,True
+47741527,Ask HN: What Are You Working On? (April 2026),david927,279,1776011083,,905,technology,3.232142857142857,True
+47744540,A perfectable programming language,yuppiemephisto,177,1776028284,https://alok.github.io/lean-pages/perfectable-lean/,81,technology,0.4550561797752809,False
+47749674,Show HN: I built a social media management tool in 3 weeks with Claude and Codex,JanSchu,136,1776072416,https://github.com/brightbeanxyz/brightbean-studio,92,technology,0.6715328467153284,False
+47719490,I gave every train in New York an instrument,joshuawolk,345,1775834467,https://www.trainjazz.com/,69,technology,0.1994219653179191,True
+47750259,Point Cloud Allemansrätten,ColinWright,31,1776077710,https://digitalflapjack.com/weeknotes/point-cloud-allemansr%C3%A4tten/,4,technology,0.125,False
+47751032,"AI could be the end of the digital wave, not the next big thing",surprisetalk,141,1776083379,https://thenextwavefutures.wordpress.com/2026/04/07/ai-end-digital-wave-technology-innovation-perez/,177,technology,1.2464788732394365,False
+47738883,Tell HN: Docker pull fails in Spain due to football Cloudflare block,littlecranky67,1046,1775996937,,380,technology,0.3629417382999045,True
+47738978,"We have a 99% email reputation, but Gmail disagrees",em-bee,312,1775997745,https://blogfontawesome.wpcomstaging.com/we-have-a-99-email-reputation-gmail-disagrees/,272,technology,0.8690095846645367,True
+47744255,I ran Gemma 4 as a local model in Codex CLI,dvaughan,165,1776026588,https://blog.danielvaughan.com/i-ran-gemma-4-as-a-local-model-in-codex-cli-7fda754dc0d4,72,technology,0.43373493975903615,False
+47739174,Show HN: Oberon System 3 runs natively on Raspberry Pi 3 (with ready SD card),Rochus,217,1775999204,https://github.com/rochus-keller/OberonSystem3Native/releases,67,technology,0.3073394495412844,False
+47737292,Is math big or small?,robinhouston,70,1775982303,https://chessapig.github.io/talks/Big-Small,26,technology,0.36619718309859156,False
+47733217,Exploiting the most prominent AI agent benchmarks,Anon84,554,1775934956,https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/,134,technology,0.24144144144144145,True
+47747017,"Apple's accidental moat: How the ""AI Loser"" may end up winning",walterbell,337,1776048790,https://adlrocha.substack.com/p/adlrocha-how-the-ai-loser-may-end,293,technology,0.8668639053254438,True
+47748314,Programming Used to Be Free,yeputons,16,1776061479,https://purplesyringa.moe/blog/programming-used-to-be-free/,5,technology,0.29411764705882354,False
+47739313,Seven countries now generate nearly all their electricity from renewables (2024),mpweiher,630,1776000099,https://www.the-independent.com/tech/renewable-energy-solar-nepal-bhutan-iceland-b2533699.html,420,technology,0.6656101426307448,True
+47738094,JVM Options Explorer,0x54MUR41,209,1775989766,https://chriswhocodes.com/vm-options-explorer.html,99,technology,0.4714285714285714,False
+47737376,Phyphox – Physical Experiments Using a Smartphone,_Microft,244,1775983091,https://phyphox.org/,35,technology,0.14285714285714285,False
+47737542,Optimization of 32-bit Unsigned Division by Constants on 64-bit Targets,mpweiher,103,1775985270,https://arxiv.org/abs/2604.07902,13,technology,0.125,False
+47741460,How long-distance couples use digital games to facilitate intimacy (2025),radeeyate,119,1776010679,https://arxiv.org/abs/2505.09509,37,technology,0.30833333333333335,False
+47706560,A Tour of Oodi,zdw,166,1775755659,https://blinry.org/oodi/,44,technology,0.2634730538922156,False
+47744132,Uncharted island soon to appear on nautical charts,tannhaeuser,93,1776025811,https://www.awi.de/en/about-us/service/press/single-view/unkartierte-insel-demnaechst-auf-seekarten-verzeichnet.html,49,technology,0.5212765957446809,False
+47739260,Pro Max 5x quota exhausted in 1.5 hours despite moderate usage,cmaster11,702,1775999731,https://github.com/anthropics/claude-code/issues/45756,627,technology,0.8918918918918919,True
+47750519,Galactic Algorithm,tmtvl,20,1776079632,https://en.wikipedia.org/wiki/Galactic_algorithm,0,technology,0.0,False
+47751029,I went to America's worst national parks so you don't have to,surprisetalk,178,1776083375,https://substack.com/home/post/p-193626949,138,technology,0.770949720670391,False
+47751265,Rockstar hackers set to release GTA 6 data breach as 'demands not met',01-_-,10,1776084756,https://www.dexerto.com/gaming/hackers-threaten-to-leak-gta-6-plans-as-deadline-set-for-rockstar-3350476/,4,technology,0.36363636363636365,False
+47749222,"Caffeine, cocaine, and painkillers detected in sharks from The Bahamas",LostMyLogin,59,1776068020,https://www.sciencedirect.com/science/article/abs/pii/S0269749126001880,49,technology,0.8166666666666667,False
+47751619,2025 Tesla Cybertruck: Regular Car Reviews [video],Topfi,8,1776086618,https://www.youtube.com/watch?v=L3oO510dyVI,0,technology,0.0,False
+47747595,A Canonical Generalization of OBDD,luu,25,1776054375,https://arxiv.org/abs/2604.05537,13,technology,0.5,False
+47749295,Show HN: Equirect – a Rust VR video player,greggman65,7,1776068801,https://github.com/greggman/equirect,0,technology,0.0,False
+47743628,The peril of laziness lost,gpm,437,1776023080,https://bcantrill.dtrace.org/2026/04/12/the-peril-of-laziness-lost/,138,technology,0.3150684931506849,True
+47750522,Struggling to heat your home? How about 500 Raspberry Pi units?,cmsefton,11,1776079645,https://www.theregister.com/2025/10/03/thermify_heathub_raspberry_pi/,9,technology,0.75,False
+47743096,"Zed, A sans for the needs of 21st century (2024)",yurivish,49,1776020106,https://www.typotheque.com/blog/zed-a-sans-for-the-needs-of-21century,18,technology,0.36,False
+47743730,"Google removes ""Doki Doki Literature Club"" from Google Play",super256,488,1776023588,https://bsky.app/profile/serenityforge.com/post/3mj3r4nbiws2t,266,technology,0.5439672801635992,True
+47737876,"Doom, Played over Curl",creaktive,115,1775988114,https://github.com/xsawyerx/curl-doom,27,technology,0.23275862068965517,False
+47741393,Textbooks and Methods of Note-Taking in Early Modern Europe (2008),mooreds,46,1776010251,https://dash.harvard.edu/server/api/core/bitstreams/7312037d-e342-6bd4-e053-0100007fdf3b/content,0,technology,0.0,False
+47738864,Why AI Sucks at Front End,tobr,95,1775996769,https://nerdy.dev/why-ai-sucks-at-front-end,132,technology,1.375,False
+47743819,Basics of Radar Technology,_Microft,33,1776024099,https://www.radartutorial.eu/index.en.html,0,technology,0.0,False
+47736476,Anthropic downgraded cache TTL on March 6th,lsdmtme,530,1775972752,https://github.com/anthropics/claude-code/issues/46829,404,technology,0.7608286252354048,True
+47728879,Mark's Magic Multiply,luu,53,1775898214,https://wren.wtf/shower-thoughts/marks-magic-multiply/,4,technology,0.07407407407407407,False
+47747248,"Haunt, the 70s text adventure game, is now playable on a website",jscalo,75,1776051062,https://haunt.madebywindmill.com,22,technology,0.2894736842105263,False
+47717690,Cooperative Vectors Introduction,JasperBekkers,48,1775826972,https://www.evolvebenchmark.com/blog-posts/cooperative-vectors-introduction,3,technology,0.061224489795918366,False
+47741531,"Bouncer: Block ""crypto"", ""rage politics"", and more from your X feed using AI",steveharing1,52,1776011086,https://github.com/imbue-ai/bouncer,98,technology,1.849056603773585,False
+47738343,The Physics of GPS,maouida,146,1775992218,https://perthirtysix.com/how-does-gps-work,34,technology,0.23129251700680273,False
+47751669,They See Your Photos,cyberlurker,114,1776086871,https://theyseeyourphotos.com/,101,technology,0.8782608695652174,False
+47741889,Show HN: Claudraband – Claude Code for the Power User,halfwhey,113,1776012920,https://github.com/halfwhey/claudraband,39,technology,0.34210526315789475,False
+47724352,Filing the corners off my MacBooks,normanvalentine,1380,1775859400,https://kentwalters.com/posts/corners/,657,technology,0.47574221578566256,True
+47735535,The End of Eleventy,ValentineC,217,1775958948,https://brennan.day/the-end-of-eleventy/,182,technology,0.8348623853211009,False
+47706423,An Interview with Pat Gelsinger,zdw,107,1775755150,https://morethanmoore.substack.com/p/an-interview-with-pat-gelsinger-2026,69,technology,0.6388888888888888,False
+47736555,I run multiple $10K MRR companies on a $20/month tech stack,tradertef,907,1775973600,https://stevehanov.ca/blog/how-i-run-multiple-10k-mrr-companies-on-a-20month-tech-stack,490,technology,0.539647577092511,True
+47752301,Booking.com warns customers of hack that exposed their data,Brajeshwar,8,1776089659,https://www.theguardian.com/technology/2026/apr/13/booking-com-customers-hack-exposed-data,2,technology,0.2222222222222222,False
+47742461,IrDA,Sniffnoy,30,1776016528,https://computer.rip/2026-04-11-IrDA.html,7,technology,0.22580645161290322,False
+47745120,Tech valuations are back to pre-AI boom levels,akyuu,142,1776032002,https://www.apollo.com/wealth/the-daily-spark/tech-valuations-back-to-pre-ai-boom-levels,39,technology,0.2727272727272727,False
+47742261,The Triumph of Stupidity (1933),downbad_,20,1776015117,https://russell-j.com/0583TS.HTM,1,technology,0.047619047619047616,False
+47732020,Small models also found the vulnerabilities that Mythos found,dominicq,1261,1775926048,https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier,333,technology,0.26386687797147385,True
+47742790,The Closing of the Frontier,MindGods,186,1776018629,https://tanyaverma.sh/2026/04/10/closing-of-the-frontier.html,130,technology,0.6951871657754011,False
+47749497,Why do NES colors look so different in emulators? [video],JuniperMesos,8,1776070589,https://www.youtube.com/watch?v=7JupB4QHyGI,0,technology,0.0,False
+47730712,The Problem That Built an Industry,ShaggyHotDog,147,1775916183,https://ajitem.com/blog/iron-core-part-1-the-problem-that-built-an-industry/,49,technology,0.3310810810810811,False
+47743700,European AI. A playbook to own it,hjouneau,192,1776023466,https://europe.mistral.ai/,119,technology,0.616580310880829,False
+47738196,What have been the greatest intellectual achievements? (2017),o4c,54,1775990781,https://www.thinkingcomplete.com/2017/09/what-have-been-greatest-intellectual.html,83,technology,1.509090909090909,False
+47694064,Every plane you see in the sky – you can now follow it from the cockpit in 3D,coolwulf,382,1775671852,https://flight-viz.com/cockpit.html?lat=40.64&lon=-73.78&alt=3000&hdg=220&spd=130&cs=DAL123,72,technology,0.18798955613577023,True
+47719968,Compute iOS XNU offset from kernel cache,tonygo,32,1775836281,https://blog.reversesociety.co/blog/2026/kernel-rw-not-enough-extract-offsets-from-xnu-kernelcaches,0,technology,0.0,False
+47719740,1D Chess,burnt-resistor,984,1775835448,https://rowan441.github.io/1dchess/chess.html,173,technology,0.17563451776649747,True
+47734878,High-Level Rust: Getting 80% of the Benefits with 20% of the Pain,maxloh,74,1775950240,https://hamy.xyz/blog/2026-01_high-level-rust,91,technology,1.2133333333333334,False
+47731838,Keeping a Postgres Queue Healthy,tanelpoder,113,1775924648,https://planetscale.com/blog/keeping-a-postgres-queue-healthy,27,technology,0.23684210526315788,False
+47727960,Show HN: Pardonned.com – A searchable database of US Pardons,vidluther,491,1775888365,,264,technology,0.5365853658536586,True
+47732402,The APL programming language source code (2012),tosh,80,1775928850,https://computerhistory.org/blog/the-apl-programming-language-source-code/,28,technology,0.345679012345679,False
+47729634,Now is the best time to write code by hand,nickgreg,115,1775906681,https://sitebloom.ch/writing/now-is-the-best-time-to-write-code-by-hand/,52,technology,0.4482758620689655,False
+47746577,State of Homelab 2026,swq115,95,1776044557,https://mrlokans.work/posts/state-of-homelab-2026/,87,technology,0.90625,False
+47698455,Starfling: A one-tap endless orbital slingshot game in a single HTML file,iceberger2001,619,1775699567,https://playstarfling.com,152,technology,0.24516129032258063,True
+47733561,447 TB/cm² at zero retention energy – atomic-scale memory on fluorographane,iliatoli,261,1775938126,https://zenodo.org/records/19513269,150,technology,0.5725190839694656,True
+47702890,How Passive Radar Works,surprisetalk,194,1775738124,https://www.passiveradar.com/how-passive-radar-works/,56,technology,0.28717948717948716,False
+47730407,South Korea introduces universal basic mobile data access,saikatsg,412,1775914036,https://www.theregister.com/2026/04/10/south_korea_data_access_universal/,125,technology,0.3026634382566586,True
+47727659,Productive Procrastination,maxvij,158,1775884881,https://www.maxvanijsselmuiden.nl/blog/productive-procrastination/,50,technology,0.31446540880503143,False
+47737663,Intel Xpress Resurrection: Reviving a Forgotten EISA Beast,ankitg12,26,1775986331,https://x86.fr/intel-xpress-resurrection-reviving-a-forgotten-eisa-beast/,0,technology,0.0,False
+47733521,Dark Castle,evo_9,243,1775937719,https://darkcastle.co.uk/,33,technology,0.13524590163934427,False
+47730194,Cirrus Labs to join OpenAI,seekdeep,279,1775912494,https://cirruslabs.org/,142,technology,0.5071428571428571,True
+47735405,Software Preservation Group: C++ History Collection,quuxplusone,42,1775957065,https://softwarepreservation.computerhistory.org/c_plus_plus/,3,technology,0.06976744186046512,False
+47728653,"France's government is ditching Windows for Linux, says US tech a strategic risk",pabs3,501,1775895914,https://www.xda-developers.com/frances-government-ditching-windows-for-linux/,298,technology,0.5936254980079682,True
+47730981,"The future of everything is lies, I guess – Part 5: Annoyances",aphyr,278,1775917959,https://aphyr.com/posts/415-the-future-of-everything-is-lies-i-guess-annoyances,165,technology,0.5913978494623656,True
+47752402,Mark Zuckerberg is reportedly building an AI clone to replace him in meetings,temphaaa,38,1776090089,https://www.theverge.com/tech/910990/meta-ceo-mark-zuckerberg-ai-clone,52,technology,1.3333333333333333,False
+47687443,Volunteers turn a fan's recordings of 10K concerts into an online treasure trove,geox,385,1775639470,https://apnews.com/article/aadam-jacobs-collection-concerts-internet-archive-chicago-b1c9c4466a2db409a83523ad84b79d62,76,technology,0.19689119170984457,True
+47693559,Surelock: Deadlock-Free Mutexes for Rust,codetheweb,242,1775669779,https://notes.brooklynzelenka.com/Blog/Surelock,80,technology,0.3292181069958848,False
+47738514,"Internet outage in Iran reaches 1,008 hours",miadabdi,161,1775993896,https://mastodon.social/@netblocks/116384935123261912,113,technology,0.6975308641975309,False
+47722333,"Chimpanzees in Uganda locked in eight-year 'civil war', say researchers",neversaydie,433,1775848222,https://www.bbc.com/news/articles/cr71lkzv49po,274,technology,0.631336405529954,True
+47697722,Previously unknown verses by Empedocles found on papyrus,danielam,84,1775692833,https://www.thehistoryblog.com/archives/75792,21,technology,0.24705882352941178,False
+47721955,"OpenClaw’s memory is unreliable, and you don’t know when it will break",sonink,163,1775846129,https://blog.nishantsoni.com/p/ive-seen-a-thousand-openclaw-deploys,178,technology,1.0853658536585367,False
+47698111,Bevy game development tutorials and in-depth resources,GenericCanadian,137,1775696327,https://taintedcoders.com/,59,technology,0.427536231884058,False
+47724118,Installing every* Firefox extension,RohanAdwankar,675,1775858193,https://jack.cab/blog/every-firefox-extension,79,technology,0.11686390532544379,True
+47691730,I ported Mac OS X to the Nintendo Wii,blkhp19,1913,1775662800,https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html,327,technology,0.17084639498432602,True
+47731506,Advanced Mac Substitute is an API-level reimplementation of 1980s-era Mac OS,zdw,263,1775921959,https://www.v68k.org/advanced-mac-substitute/,68,technology,0.25757575757575757,True
+47745300,Show HN: A social feed with no strangers,rpatni,8,1776033685,https://www.grateful.so/,3,technology,0.3333333333333333,False
+47712656,We've raised $17M to build what comes after Git,ellieh,335,1775785978,https://blog.gitbutler.com/series-a,749,technology,2.2291666666666665,True
+47700556,The Zettelkasten method in Obsidian,rkrizanovskis,113,1775721480,https://desktopcommander.app/blog/zettelkasten-obsidian/,70,technology,0.6140350877192983,False
+47721953,AI assistance when contributing to the Linux kernel,hmokiguess,514,1775846121,https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst,413,technology,0.8019417475728156,True
+47725403,Italo Calvino: A traveller in a world of uncertainty,lermontov,120,1775864887,https://www.historytoday.com/archive/portrait-author-historian/italo-calvino-traveller-world-uncertainty,21,technology,0.17355371900826447,False

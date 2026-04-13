@@ -1,0 +1,992 @@
+[
+    {
+        "id": 47750872,
+        "title": "Servo is now available on crates.io",
+        "by": "ffin",
+        "score": 160,
+        "time": 1776082342,
+        "url": "https://servo.org/blog/2026/04/13/servo-0.1.0-release/",
+        "descendants": 53
+    },
+    {
+        "id": 47752819,
+        "title": "Make Tmux Pretty and Usable",
+        "by": "speckx",
+        "score": 45,
+        "time": 1776091735,
+        "url": "https://hamvocke.com/blog/a-guide-to-customizing-your-tmux-conf/",
+        "descendants": 23
+    },
+    {
+        "id": 47746610,
+        "title": "All elementary functions from a single binary operator",
+        "by": "pizza",
+        "score": 649,
+        "time": 1776044972,
+        "url": "https://arxiv.org/abs/2603.21852",
+        "descendants": 180
+    },
+    {
+        "id": 47750669,
+        "title": "Android now stops you sharing your location in photos",
+        "by": "edent",
+        "score": 220,
+        "time": 1776080895,
+        "url": "https://shkspr.mobi/blog/2026/04/android-now-stops-you-sharing-your-location-in-photos/",
+        "descendants": 146
+    },
+    {
+        "id": 47751781,
+        "title": "US appeals court declares 158-year-old home distilling ban unconstitutional",
+        "by": "t-3",
+        "score": 95,
+        "time": 1776087453,
+        "url": "https://nypost.com/2026/04/11/us-news/us-appeals-court-declares-158-year-old-home-distilling-ban-unconstitutional/",
+        "descendants": 19
+    },
+    {
+        "id": 47748064,
+        "title": "The economics of software teams: Why most engineering orgs are flying blind",
+        "by": "kiyanwang",
+        "score": 309,
+        "time": 1776059132,
+        "url": "https://www.viktorcessan.com/the-economics-of-software-teams/",
+        "descendants": 161
+    },
+    {
+        "id": 47750821,
+        "title": "Michigan 'digital age' bills pulled after privacy concerns raised",
+        "by": "iamnothere",
+        "score": 93,
+        "time": 1776081935,
+        "url": "https://www.thecentersquare.com/michigan/article_7ca4e268-4a68-42fb-9042-f9d8604ebd7f.html",
+        "descendants": 43
+    },
+    {
+        "id": 47751936,
+        "title": "Microsoft isn't removing Copilot from Windows 11, it's just renaming it",
+        "by": "bundie",
+        "score": 39,
+        "time": 1776088104,
+        "url": "https://www.neowin.net/opinions/microsoft-isnt-removing-copilot-from-windows-11-its-just-renaming-it/",
+        "descendants": 23
+    },
+    {
+        "id": 47751621,
+        "title": "Initial mainline video capture and camera support for Rockchip RK3588",
+        "by": "mfilion",
+        "score": 10,
+        "time": 1776086630,
+        "url": "https://www.collabora.com/news-and-blog/news-and-events/mainline-video-capture-and-camera-support-for-rockchip-rk3588.html",
+        "descendants": 0
+    },
+    {
+        "id": 47745284,
+        "title": "Taking on CUDA with ROCm: 'One Step After Another'",
+        "by": "mindcrime",
+        "score": 225,
+        "time": 1776033525,
+        "url": "https://www.eetimes.com/taking-on-cuda-with-rocm-one-step-after-another/",
+        "descendants": 165
+    },
+    {
+        "id": 47741701,
+        "title": "DIY Soft Drinks",
+        "by": "_Microft",
+        "score": 593,
+        "time": 1776011923,
+        "url": "https://blinry.org/diy-soft-drinks/",
+        "descendants": 178
+    },
+    {
+        "id": 47752884,
+        "title": "We May Be Living Through the Most Consequential Hundred Days in Cyber History",
+        "by": "laurex",
+        "score": 34,
+        "time": 1776091985,
+        "url": "https://ringmast4r.substack.com/p/we-may-be-living-through-the-most",
+        "descendants": 6
+    },
+    {
+        "id": 47738827,
+        "title": "Bring Back Idiomatic Design (2023)",
+        "by": "phil294",
+        "score": 625,
+        "time": 1775996486,
+        "url": "https://essays.johnloeber.com/p/4-bring-back-idiomatic-design",
+        "descendants": 350
+    },
+    {
+        "id": 47742200,
+        "title": "Show HN: boringBar \u2013 a taskbar-style dock replacement for macOS",
+        "by": "a-ve",
+        "score": 447,
+        "time": 1776014744,
+        "url": "https://boringbar.app/",
+        "descendants": 250
+    },
+    {
+        "id": 47702887,
+        "title": "Most people can't juggle one ball",
+        "by": "surprisetalk",
+        "score": 439,
+        "time": 1775738120,
+        "url": "https://www.lesswrong.com/posts/jTGbKKGqs5EdyYoRc/most-people-can-t-juggle-one-ball",
+        "descendants": 153
+    },
+    {
+        "id": 47741527,
+        "title": "Ask HN: What Are You Working On? (April 2026)",
+        "by": "david927",
+        "score": 279,
+        "time": 1776011083,
+        "url": null,
+        "descendants": 905
+    },
+    {
+        "id": 47744540,
+        "title": "A perfectable programming language",
+        "by": "yuppiemephisto",
+        "score": 177,
+        "time": 1776028284,
+        "url": "https://alok.github.io/lean-pages/perfectable-lean/",
+        "descendants": 81
+    },
+    {
+        "id": 47749674,
+        "title": "Show HN: I built a social media management tool in 3 weeks with Claude and Codex",
+        "by": "JanSchu",
+        "score": 136,
+        "time": 1776072416,
+        "url": "https://github.com/brightbeanxyz/brightbean-studio",
+        "descendants": 92
+    },
+    {
+        "id": 47719490,
+        "title": "I gave every train in New York an instrument",
+        "by": "joshuawolk",
+        "score": 345,
+        "time": 1775834467,
+        "url": "https://www.trainjazz.com/",
+        "descendants": 69
+    },
+    {
+        "id": 47750259,
+        "title": "Point Cloud Allemansr\u00e4tten",
+        "by": "ColinWright",
+        "score": 31,
+        "time": 1776077710,
+        "url": "https://digitalflapjack.com/weeknotes/point-cloud-allemansr%C3%A4tten/",
+        "descendants": 4
+    },
+    {
+        "id": 47751032,
+        "title": "AI could be the end of the digital wave, not the next big thing",
+        "by": "surprisetalk",
+        "score": 141,
+        "time": 1776083379,
+        "url": "https://thenextwavefutures.wordpress.com/2026/04/07/ai-end-digital-wave-technology-innovation-perez/",
+        "descendants": 177
+    },
+    {
+        "id": 47738883,
+        "title": "Tell HN: Docker pull fails in Spain due to football Cloudflare block",
+        "by": "littlecranky67",
+        "score": 1046,
+        "time": 1775996937,
+        "url": null,
+        "descendants": 380
+    },
+    {
+        "id": 47738978,
+        "title": "We have a 99% email reputation, but Gmail disagrees",
+        "by": "em-bee",
+        "score": 312,
+        "time": 1775997745,
+        "url": "https://blogfontawesome.wpcomstaging.com/we-have-a-99-email-reputation-gmail-disagrees/",
+        "descendants": 272
+    },
+    {
+        "id": 47744255,
+        "title": "I ran Gemma 4 as a local model in Codex CLI",
+        "by": "dvaughan",
+        "score": 165,
+        "time": 1776026588,
+        "url": "https://blog.danielvaughan.com/i-ran-gemma-4-as-a-local-model-in-codex-cli-7fda754dc0d4",
+        "descendants": 72
+    },
+    {
+        "id": 47739174,
+        "title": "Show HN: Oberon System 3 runs natively on Raspberry Pi 3 (with ready SD card)",
+        "by": "Rochus",
+        "score": 217,
+        "time": 1775999204,
+        "url": "https://github.com/rochus-keller/OberonSystem3Native/releases",
+        "descendants": 67
+    },
+    {
+        "id": 47737292,
+        "title": "Is math big or small?",
+        "by": "robinhouston",
+        "score": 70,
+        "time": 1775982303,
+        "url": "https://chessapig.github.io/talks/Big-Small",
+        "descendants": 26
+    },
+    {
+        "id": 47733217,
+        "title": "Exploiting the most prominent AI agent benchmarks",
+        "by": "Anon84",
+        "score": 554,
+        "time": 1775934956,
+        "url": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/",
+        "descendants": 134
+    },
+    {
+        "id": 47747017,
+        "title": "Apple's accidental moat: How the \"AI Loser\" may end up winning",
+        "by": "walterbell",
+        "score": 337,
+        "time": 1776048790,
+        "url": "https://adlrocha.substack.com/p/adlrocha-how-the-ai-loser-may-end",
+        "descendants": 293
+    },
+    {
+        "id": 47748314,
+        "title": "Programming Used to Be Free",
+        "by": "yeputons",
+        "score": 16,
+        "time": 1776061479,
+        "url": "https://purplesyringa.moe/blog/programming-used-to-be-free/",
+        "descendants": 5
+    },
+    {
+        "id": 47739313,
+        "title": "Seven countries now generate nearly all their electricity from renewables (2024)",
+        "by": "mpweiher",
+        "score": 630,
+        "time": 1776000099,
+        "url": "https://www.the-independent.com/tech/renewable-energy-solar-nepal-bhutan-iceland-b2533699.html",
+        "descendants": 420
+    },
+    {
+        "id": 47738094,
+        "title": "JVM Options Explorer",
+        "by": "0x54MUR41",
+        "score": 209,
+        "time": 1775989766,
+        "url": "https://chriswhocodes.com/vm-options-explorer.html",
+        "descendants": 99
+    },
+    {
+        "id": 47737376,
+        "title": "Phyphox \u2013 Physical Experiments Using a Smartphone",
+        "by": "_Microft",
+        "score": 244,
+        "time": 1775983091,
+        "url": "https://phyphox.org/",
+        "descendants": 35
+    },
+    {
+        "id": 47737542,
+        "title": "Optimization of 32-bit Unsigned Division by Constants on 64-bit Targets",
+        "by": "mpweiher",
+        "score": 103,
+        "time": 1775985270,
+        "url": "https://arxiv.org/abs/2604.07902",
+        "descendants": 13
+    },
+    {
+        "id": 47741460,
+        "title": "How long-distance couples use digital games to facilitate intimacy (2025)",
+        "by": "radeeyate",
+        "score": 119,
+        "time": 1776010679,
+        "url": "https://arxiv.org/abs/2505.09509",
+        "descendants": 37
+    },
+    {
+        "id": 47706560,
+        "title": "A Tour of Oodi",
+        "by": "zdw",
+        "score": 166,
+        "time": 1775755659,
+        "url": "https://blinry.org/oodi/",
+        "descendants": 44
+    },
+    {
+        "id": 47744132,
+        "title": "Uncharted island soon to appear on nautical charts",
+        "by": "tannhaeuser",
+        "score": 93,
+        "time": 1776025811,
+        "url": "https://www.awi.de/en/about-us/service/press/single-view/unkartierte-insel-demnaechst-auf-seekarten-verzeichnet.html",
+        "descendants": 49
+    },
+    {
+        "id": 47739260,
+        "title": "Pro Max 5x quota exhausted in 1.5 hours despite moderate usage",
+        "by": "cmaster11",
+        "score": 702,
+        "time": 1775999731,
+        "url": "https://github.com/anthropics/claude-code/issues/45756",
+        "descendants": 627
+    },
+    {
+        "id": 47750519,
+        "title": "Galactic Algorithm",
+        "by": "tmtvl",
+        "score": 20,
+        "time": 1776079632,
+        "url": "https://en.wikipedia.org/wiki/Galactic_algorithm",
+        "descendants": 0
+    },
+    {
+        "id": 47751029,
+        "title": "I went to America's worst national parks so you don't have to",
+        "by": "surprisetalk",
+        "score": 178,
+        "time": 1776083375,
+        "url": "https://substack.com/home/post/p-193626949",
+        "descendants": 138
+    },
+    {
+        "id": 47751265,
+        "title": "Rockstar hackers set to release GTA 6 data breach as 'demands not met'",
+        "by": "01-_-",
+        "score": 10,
+        "time": 1776084756,
+        "url": "https://www.dexerto.com/gaming/hackers-threaten-to-leak-gta-6-plans-as-deadline-set-for-rockstar-3350476/",
+        "descendants": 4
+    },
+    {
+        "id": 47749222,
+        "title": "Caffeine, cocaine, and painkillers detected in sharks from The Bahamas",
+        "by": "LostMyLogin",
+        "score": 59,
+        "time": 1776068020,
+        "url": "https://www.sciencedirect.com/science/article/abs/pii/S0269749126001880",
+        "descendants": 49
+    },
+    {
+        "id": 47751619,
+        "title": "2025 Tesla Cybertruck: Regular Car Reviews [video]",
+        "by": "Topfi",
+        "score": 8,
+        "time": 1776086618,
+        "url": "https://www.youtube.com/watch?v=L3oO510dyVI",
+        "descendants": 0
+    },
+    {
+        "id": 47747595,
+        "title": "A Canonical Generalization of OBDD",
+        "by": "luu",
+        "score": 25,
+        "time": 1776054375,
+        "url": "https://arxiv.org/abs/2604.05537",
+        "descendants": 13
+    },
+    {
+        "id": 47749295,
+        "title": "Show HN: Equirect \u2013 a Rust VR video player",
+        "by": "greggman65",
+        "score": 7,
+        "time": 1776068801,
+        "url": "https://github.com/greggman/equirect",
+        "descendants": 0
+    },
+    {
+        "id": 47743628,
+        "title": "The peril of laziness lost",
+        "by": "gpm",
+        "score": 437,
+        "time": 1776023080,
+        "url": "https://bcantrill.dtrace.org/2026/04/12/the-peril-of-laziness-lost/",
+        "descendants": 138
+    },
+    {
+        "id": 47750522,
+        "title": "Struggling to heat your home? How about 500 Raspberry Pi units?",
+        "by": "cmsefton",
+        "score": 11,
+        "time": 1776079645,
+        "url": "https://www.theregister.com/2025/10/03/thermify_heathub_raspberry_pi/",
+        "descendants": 9
+    },
+    {
+        "id": 47743096,
+        "title": "Zed, A sans for the needs of 21st century (2024)",
+        "by": "yurivish",
+        "score": 49,
+        "time": 1776020106,
+        "url": "https://www.typotheque.com/blog/zed-a-sans-for-the-needs-of-21century",
+        "descendants": 18
+    },
+    {
+        "id": 47743730,
+        "title": "Google removes \"Doki Doki Literature Club\" from Google Play",
+        "by": "super256",
+        "score": 488,
+        "time": 1776023588,
+        "url": "https://bsky.app/profile/serenityforge.com/post/3mj3r4nbiws2t",
+        "descendants": 266
+    },
+    {
+        "id": 47737876,
+        "title": "Doom, Played over Curl",
+        "by": "creaktive",
+        "score": 115,
+        "time": 1775988114,
+        "url": "https://github.com/xsawyerx/curl-doom",
+        "descendants": 27
+    },
+    {
+        "id": 47741393,
+        "title": "Textbooks and Methods of Note-Taking in Early Modern Europe (2008)",
+        "by": "mooreds",
+        "score": 46,
+        "time": 1776010251,
+        "url": "https://dash.harvard.edu/server/api/core/bitstreams/7312037d-e342-6bd4-e053-0100007fdf3b/content",
+        "descendants": 0
+    },
+    {
+        "id": 47738864,
+        "title": "Why AI Sucks at Front End",
+        "by": "tobr",
+        "score": 95,
+        "time": 1775996769,
+        "url": "https://nerdy.dev/why-ai-sucks-at-front-end",
+        "descendants": 132
+    },
+    {
+        "id": 47743819,
+        "title": "Basics of Radar Technology",
+        "by": "_Microft",
+        "score": 33,
+        "time": 1776024099,
+        "url": "https://www.radartutorial.eu/index.en.html",
+        "descendants": 0
+    },
+    {
+        "id": 47736476,
+        "title": "Anthropic downgraded cache TTL on March 6th",
+        "by": "lsdmtme",
+        "score": 530,
+        "time": 1775972752,
+        "url": "https://github.com/anthropics/claude-code/issues/46829",
+        "descendants": 404
+    },
+    {
+        "id": 47728879,
+        "title": "Mark's Magic Multiply",
+        "by": "luu",
+        "score": 53,
+        "time": 1775898214,
+        "url": "https://wren.wtf/shower-thoughts/marks-magic-multiply/",
+        "descendants": 4
+    },
+    {
+        "id": 47747248,
+        "title": "Haunt, the 70s text adventure game, is now playable on a website",
+        "by": "jscalo",
+        "score": 75,
+        "time": 1776051062,
+        "url": "https://haunt.madebywindmill.com",
+        "descendants": 22
+    },
+    {
+        "id": 47717690,
+        "title": "Cooperative Vectors Introduction",
+        "by": "JasperBekkers",
+        "score": 48,
+        "time": 1775826972,
+        "url": "https://www.evolvebenchmark.com/blog-posts/cooperative-vectors-introduction",
+        "descendants": 3
+    },
+    {
+        "id": 47741531,
+        "title": "Bouncer: Block \"crypto\", \"rage politics\", and more from your X feed using AI",
+        "by": "steveharing1",
+        "score": 52,
+        "time": 1776011086,
+        "url": "https://github.com/imbue-ai/bouncer",
+        "descendants": 98
+    },
+    {
+        "id": 47738343,
+        "title": "The Physics of GPS",
+        "by": "maouida",
+        "score": 146,
+        "time": 1775992218,
+        "url": "https://perthirtysix.com/how-does-gps-work",
+        "descendants": 34
+    },
+    {
+        "id": 47751669,
+        "title": "They See Your Photos",
+        "by": "cyberlurker",
+        "score": 114,
+        "time": 1776086871,
+        "url": "https://theyseeyourphotos.com/",
+        "descendants": 101
+    },
+    {
+        "id": 47741889,
+        "title": "Show HN: Claudraband \u2013 Claude Code for the Power User",
+        "by": "halfwhey",
+        "score": 113,
+        "time": 1776012920,
+        "url": "https://github.com/halfwhey/claudraband",
+        "descendants": 39
+    },
+    {
+        "id": 47724352,
+        "title": "Filing the corners off my MacBooks",
+        "by": "normanvalentine",
+        "score": 1380,
+        "time": 1775859400,
+        "url": "https://kentwalters.com/posts/corners/",
+        "descendants": 657
+    },
+    {
+        "id": 47735535,
+        "title": "The End of Eleventy",
+        "by": "ValentineC",
+        "score": 217,
+        "time": 1775958948,
+        "url": "https://brennan.day/the-end-of-eleventy/",
+        "descendants": 182
+    },
+    {
+        "id": 47706423,
+        "title": "An Interview with Pat Gelsinger",
+        "by": "zdw",
+        "score": 107,
+        "time": 1775755150,
+        "url": "https://morethanmoore.substack.com/p/an-interview-with-pat-gelsinger-2026",
+        "descendants": 69
+    },
+    {
+        "id": 47736555,
+        "title": "I run multiple $10K MRR companies on a $20/month tech stack",
+        "by": "tradertef",
+        "score": 907,
+        "time": 1775973600,
+        "url": "https://stevehanov.ca/blog/how-i-run-multiple-10k-mrr-companies-on-a-20month-tech-stack",
+        "descendants": 490
+    },
+    {
+        "id": 47752301,
+        "title": "Booking.com warns customers of hack that exposed their data",
+        "by": "Brajeshwar",
+        "score": 8,
+        "time": 1776089659,
+        "url": "https://www.theguardian.com/technology/2026/apr/13/booking-com-customers-hack-exposed-data",
+        "descendants": 2
+    },
+    {
+        "id": 47742461,
+        "title": "IrDA",
+        "by": "Sniffnoy",
+        "score": 30,
+        "time": 1776016528,
+        "url": "https://computer.rip/2026-04-11-IrDA.html",
+        "descendants": 7
+    },
+    {
+        "id": 47745120,
+        "title": "Tech valuations are back to pre-AI boom levels",
+        "by": "akyuu",
+        "score": 142,
+        "time": 1776032002,
+        "url": "https://www.apollo.com/wealth/the-daily-spark/tech-valuations-back-to-pre-ai-boom-levels",
+        "descendants": 39
+    },
+    {
+        "id": 47742261,
+        "title": "The Triumph of Stupidity (1933)",
+        "by": "downbad_",
+        "score": 20,
+        "time": 1776015117,
+        "url": "https://russell-j.com/0583TS.HTM",
+        "descendants": 1
+    },
+    {
+        "id": 47732020,
+        "title": "Small models also found the vulnerabilities that Mythos found",
+        "by": "dominicq",
+        "score": 1261,
+        "time": 1775926048,
+        "url": "https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier",
+        "descendants": 333
+    },
+    {
+        "id": 47742790,
+        "title": "The Closing of the Frontier",
+        "by": "MindGods",
+        "score": 186,
+        "time": 1776018629,
+        "url": "https://tanyaverma.sh/2026/04/10/closing-of-the-frontier.html",
+        "descendants": 130
+    },
+    {
+        "id": 47749497,
+        "title": "Why do NES colors look so different in emulators? [video]",
+        "by": "JuniperMesos",
+        "score": 8,
+        "time": 1776070589,
+        "url": "https://www.youtube.com/watch?v=7JupB4QHyGI",
+        "descendants": 0
+    },
+    {
+        "id": 47730712,
+        "title": "The Problem That Built an Industry",
+        "by": "ShaggyHotDog",
+        "score": 147,
+        "time": 1775916183,
+        "url": "https://ajitem.com/blog/iron-core-part-1-the-problem-that-built-an-industry/",
+        "descendants": 49
+    },
+    {
+        "id": 47743700,
+        "title": "European AI. A playbook to own it",
+        "by": "hjouneau",
+        "score": 192,
+        "time": 1776023466,
+        "url": "https://europe.mistral.ai/",
+        "descendants": 119
+    },
+    {
+        "id": 47738196,
+        "title": "What have been the greatest intellectual achievements? (2017)",
+        "by": "o4c",
+        "score": 54,
+        "time": 1775990781,
+        "url": "https://www.thinkingcomplete.com/2017/09/what-have-been-greatest-intellectual.html",
+        "descendants": 83
+    },
+    {
+        "id": 47694064,
+        "title": "Every plane you see in the sky \u2013 you can now follow it from the cockpit in 3D",
+        "by": "coolwulf",
+        "score": 382,
+        "time": 1775671852,
+        "url": "https://flight-viz.com/cockpit.html?lat=40.64&lon=-73.78&alt=3000&hdg=220&spd=130&cs=DAL123",
+        "descendants": 72
+    },
+    {
+        "id": 47719968,
+        "title": "Compute iOS XNU offset from kernel cache",
+        "by": "tonygo",
+        "score": 32,
+        "time": 1775836281,
+        "url": "https://blog.reversesociety.co/blog/2026/kernel-rw-not-enough-extract-offsets-from-xnu-kernelcaches",
+        "descendants": 0
+    },
+    {
+        "id": 47719740,
+        "title": "1D Chess",
+        "by": "burnt-resistor",
+        "score": 984,
+        "time": 1775835448,
+        "url": "https://rowan441.github.io/1dchess/chess.html",
+        "descendants": 173
+    },
+    {
+        "id": 47734878,
+        "title": "High-Level Rust: Getting 80% of the Benefits with 20% of the Pain",
+        "by": "maxloh",
+        "score": 74,
+        "time": 1775950240,
+        "url": "https://hamy.xyz/blog/2026-01_high-level-rust",
+        "descendants": 91
+    },
+    {
+        "id": 47731838,
+        "title": "Keeping a Postgres Queue Healthy",
+        "by": "tanelpoder",
+        "score": 113,
+        "time": 1775924648,
+        "url": "https://planetscale.com/blog/keeping-a-postgres-queue-healthy",
+        "descendants": 27
+    },
+    {
+        "id": 47727960,
+        "title": "Show HN: Pardonned.com \u2013 A searchable database of US Pardons",
+        "by": "vidluther",
+        "score": 491,
+        "time": 1775888365,
+        "url": null,
+        "descendants": 264
+    },
+    {
+        "id": 47732402,
+        "title": "The APL programming language source code (2012)",
+        "by": "tosh",
+        "score": 80,
+        "time": 1775928850,
+        "url": "https://computerhistory.org/blog/the-apl-programming-language-source-code/",
+        "descendants": 28
+    },
+    {
+        "id": 47729634,
+        "title": "Now is the best time to write code by hand",
+        "by": "nickgreg",
+        "score": 115,
+        "time": 1775906681,
+        "url": "https://sitebloom.ch/writing/now-is-the-best-time-to-write-code-by-hand/",
+        "descendants": 52
+    },
+    {
+        "id": 47746577,
+        "title": "State of Homelab 2026",
+        "by": "swq115",
+        "score": 95,
+        "time": 1776044557,
+        "url": "https://mrlokans.work/posts/state-of-homelab-2026/",
+        "descendants": 87
+    },
+    {
+        "id": 47698455,
+        "title": "Starfling: A one-tap endless orbital slingshot game in a single HTML file",
+        "by": "iceberger2001",
+        "score": 619,
+        "time": 1775699567,
+        "url": "https://playstarfling.com",
+        "descendants": 152
+    },
+    {
+        "id": 47733561,
+        "title": "447 TB/cm\u00b2 at zero retention energy \u2013 atomic-scale memory on fluorographane",
+        "by": "iliatoli",
+        "score": 261,
+        "time": 1775938126,
+        "url": "https://zenodo.org/records/19513269",
+        "descendants": 150
+    },
+    {
+        "id": 47702890,
+        "title": "How Passive Radar Works",
+        "by": "surprisetalk",
+        "score": 194,
+        "time": 1775738124,
+        "url": "https://www.passiveradar.com/how-passive-radar-works/",
+        "descendants": 56
+    },
+    {
+        "id": 47730407,
+        "title": "South Korea introduces universal basic mobile data access",
+        "by": "saikatsg",
+        "score": 412,
+        "time": 1775914036,
+        "url": "https://www.theregister.com/2026/04/10/south_korea_data_access_universal/",
+        "descendants": 125
+    },
+    {
+        "id": 47727659,
+        "title": "Productive Procrastination",
+        "by": "maxvij",
+        "score": 158,
+        "time": 1775884881,
+        "url": "https://www.maxvanijsselmuiden.nl/blog/productive-procrastination/",
+        "descendants": 50
+    },
+    {
+        "id": 47737663,
+        "title": "Intel Xpress Resurrection: Reviving a Forgotten EISA Beast",
+        "by": "ankitg12",
+        "score": 26,
+        "time": 1775986331,
+        "url": "https://x86.fr/intel-xpress-resurrection-reviving-a-forgotten-eisa-beast/",
+        "descendants": 0
+    },
+    {
+        "id": 47733521,
+        "title": "Dark Castle",
+        "by": "evo_9",
+        "score": 243,
+        "time": 1775937719,
+        "url": "https://darkcastle.co.uk/",
+        "descendants": 33
+    },
+    {
+        "id": 47730194,
+        "title": "Cirrus Labs to join OpenAI",
+        "by": "seekdeep",
+        "score": 279,
+        "time": 1775912494,
+        "url": "https://cirruslabs.org/",
+        "descendants": 142
+    },
+    {
+        "id": 47735405,
+        "title": "Software Preservation Group: C++ History Collection",
+        "by": "quuxplusone",
+        "score": 42,
+        "time": 1775957065,
+        "url": "https://softwarepreservation.computerhistory.org/c_plus_plus/",
+        "descendants": 3
+    },
+    {
+        "id": 47728653,
+        "title": "France's government is ditching Windows for Linux, says US tech a strategic risk",
+        "by": "pabs3",
+        "score": 501,
+        "time": 1775895914,
+        "url": "https://www.xda-developers.com/frances-government-ditching-windows-for-linux/",
+        "descendants": 298
+    },
+    {
+        "id": 47730981,
+        "title": "The future of everything is lies, I guess \u2013 Part 5: Annoyances",
+        "by": "aphyr",
+        "score": 278,
+        "time": 1775917959,
+        "url": "https://aphyr.com/posts/415-the-future-of-everything-is-lies-i-guess-annoyances",
+        "descendants": 165
+    },
+    {
+        "id": 47752402,
+        "title": "Mark Zuckerberg is reportedly building an AI clone to replace him in meetings",
+        "by": "temphaaa",
+        "score": 38,
+        "time": 1776090089,
+        "url": "https://www.theverge.com/tech/910990/meta-ceo-mark-zuckerberg-ai-clone",
+        "descendants": 52
+    },
+    {
+        "id": 47687443,
+        "title": "Volunteers turn a fan's recordings of 10K concerts into an online treasure trove",
+        "by": "geox",
+        "score": 385,
+        "time": 1775639470,
+        "url": "https://apnews.com/article/aadam-jacobs-collection-concerts-internet-archive-chicago-b1c9c4466a2db409a83523ad84b79d62",
+        "descendants": 76
+    },
+    {
+        "id": 47693559,
+        "title": "Surelock: Deadlock-Free Mutexes for Rust",
+        "by": "codetheweb",
+        "score": 242,
+        "time": 1775669779,
+        "url": "https://notes.brooklynzelenka.com/Blog/Surelock",
+        "descendants": 80
+    },
+    {
+        "id": 47738514,
+        "title": "Internet outage in Iran reaches 1,008 hours",
+        "by": "miadabdi",
+        "score": 161,
+        "time": 1775993896,
+        "url": "https://mastodon.social/@netblocks/116384935123261912",
+        "descendants": 113
+    },
+    {
+        "id": 47722333,
+        "title": "Chimpanzees in Uganda locked in eight-year 'civil war', say researchers",
+        "by": "neversaydie",
+        "score": 433,
+        "time": 1775848222,
+        "url": "https://www.bbc.com/news/articles/cr71lkzv49po",
+        "descendants": 274
+    },
+    {
+        "id": 47697722,
+        "title": "Previously unknown verses by Empedocles found on papyrus",
+        "by": "danielam",
+        "score": 84,
+        "time": 1775692833,
+        "url": "https://www.thehistoryblog.com/archives/75792",
+        "descendants": 21
+    },
+    {
+        "id": 47721955,
+        "title": "OpenClaw\u2019s memory is unreliable, and you don\u2019t know when it will break",
+        "by": "sonink",
+        "score": 163,
+        "time": 1775846129,
+        "url": "https://blog.nishantsoni.com/p/ive-seen-a-thousand-openclaw-deploys",
+        "descendants": 178
+    },
+    {
+        "id": 47698111,
+        "title": "Bevy game development tutorials and in-depth resources",
+        "by": "GenericCanadian",
+        "score": 137,
+        "time": 1775696327,
+        "url": "https://taintedcoders.com/",
+        "descendants": 59
+    },
+    {
+        "id": 47724118,
+        "title": "Installing every* Firefox extension",
+        "by": "RohanAdwankar",
+        "score": 675,
+        "time": 1775858193,
+        "url": "https://jack.cab/blog/every-firefox-extension",
+        "descendants": 79
+    },
+    {
+        "id": 47691730,
+        "title": "I ported Mac OS X to the Nintendo Wii",
+        "by": "blkhp19",
+        "score": 1913,
+        "time": 1775662800,
+        "url": "https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html",
+        "descendants": 327
+    },
+    {
+        "id": 47731506,
+        "title": "Advanced Mac Substitute is an API-level reimplementation of 1980s-era Mac OS",
+        "by": "zdw",
+        "score": 263,
+        "time": 1775921959,
+        "url": "https://www.v68k.org/advanced-mac-substitute/",
+        "descendants": 68
+    },
+    {
+        "id": 47745300,
+        "title": "Show HN: A social feed with no strangers",
+        "by": "rpatni",
+        "score": 8,
+        "time": 1776033685,
+        "url": "https://www.grateful.so/",
+        "descendants": 3
+    },
+    {
+        "id": 47712656,
+        "title": "We've raised $17M to build what comes after Git",
+        "by": "ellieh",
+        "score": 335,
+        "time": 1775785978,
+        "url": "https://blog.gitbutler.com/series-a",
+        "descendants": 749
+    },
+    {
+        "id": 47700556,
+        "title": "The Zettelkasten method in Obsidian",
+        "by": "rkrizanovskis",
+        "score": 113,
+        "time": 1775721480,
+        "url": "https://desktopcommander.app/blog/zettelkasten-obsidian/",
+        "descendants": 70
+    },
+    {
+        "id": 47721953,
+        "title": "AI assistance when contributing to the Linux kernel",
+        "by": "hmokiguess",
+        "score": 514,
+        "time": 1775846121,
+        "url": "https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst",
+        "descendants": 413
+    },
+    {
+        "id": 47725403,
+        "title": "Italo Calvino: A traveller in a world of uncertainty",
+        "by": "lermontov",
+        "score": 120,
+        "time": 1775864887,
+        "url": "https://www.historytoday.com/archive/portrait-author-historian/italo-calvino-traveller-world-uncertainty",
+        "descendants": 21
+    }
+]
